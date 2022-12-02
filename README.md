@@ -1,1 +1,1 @@
-# auto-trader
+# Auto Trader
